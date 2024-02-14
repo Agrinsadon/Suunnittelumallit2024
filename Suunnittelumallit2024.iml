@@ -6,6 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Observer" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Singleton" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DecoratorC" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
