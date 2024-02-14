@@ -3,7 +3,7 @@ public class AgrininPizzaMain {
         AgrininPizza pizza = new PizzaPohja();
 
         pizza = new Kebab(pizza);
-        //pizza = new Feta(pizza); // Voi lisätä feta päällyste
+        pizza = new Feta(pizza); // Voi lisätä feta päällyste
         pizza = new Juusto(pizza);
 
         System.out.println("Pizza: " + pizza.getKuvaus());

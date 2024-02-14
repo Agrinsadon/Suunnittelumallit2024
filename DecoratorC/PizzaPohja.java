@@ -1,4 +1,3 @@
-// Pizzapohja
 public class PizzaPohja implements AgrininPizza {
     @Override
     public String getKuvaus() {
