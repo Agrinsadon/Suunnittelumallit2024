@@ -5,9 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0cb3c318-2ac7-4a41-a0c8-5756d4f7af1f" name="Changes" comment="DECORATE C DONE WITH AGRINPIZZA">
+      <change afterPath="$PROJECT_DIR$/State/CharizardTila.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/State/CharmanderTila.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/State/CharmeleonTila.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/State/Pokemon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/State/PokemonMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/State/PokemonTila.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DecoratorC/AgrininPizzaMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/DecoratorC/AgrininPizzaMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DecoratorC/PizzaPohja.java" beforeDir="false" afterPath="$PROJECT_DIR$/DecoratorC/PizzaPohja.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Suunnittelumallit2024.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Suunnittelumallit2024.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +47,7 @@
     "Application.AgrininPizzaMain.executor": "Run",
     "Application.DigitalClockApp.executor": "Run",
     "Application.ObserverMain.executor": "Run",
+    "Application.PokemonMain.executor": "Run",
     "Application.SingletonMain.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -70,8 +76,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PokemonMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PokemonMain" />
+      <module name="Suunnittelumallit2024" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PokemonMain" />
         <item itemvalue="Application.AgrininPizzaMain" />
       </list>
     </recent_temporary>
@@ -96,7 +110,7 @@
       <workItem from="1707242810558" duration="62000" />
       <workItem from="1707242881371" duration="3242000" />
       <workItem from="1707315092568" duration="1727000" />
-      <workItem from="1707898297502" duration="2663000" />
+      <workItem from="1707898297502" duration="6787000" />
     </task>
     <task id="LOCAL−00001" summary="Done">
       <option name="closed" value="true" />
@@ -112,7 +126,14 @@
       <option name="presentableId" value="LOCAL−00002" />
       <updated>1707901113149</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL−00003" summary="DECORATE C DONE WITH AGRINPIZZA">
+      <option name="closed" value="true" />
+      <created>1707901198205</created>
+      <option name="number" value="LOCAL−00003" />
+      <option name="presentableId" value="LOCAL−00003" />
+      <updated>1707901198205</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
