@@ -4,15 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0cb3c318-2ac7-4a41-a0c8-5756d4f7af1f" name="Changes" comment="DECORATE C DONE WITH AGRINPIZZA">
-      <change afterPath="$PROJECT_DIR$/State/CharizardTila.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/State/CharmanderTila.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/State/CharmeleonTila.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/State/Pokemon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/State/PokemonMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/State/PokemonTila.java" afterDir="false" />
+    <list default="true" id="0cb3c318-2ac7-4a41-a0c8-5756d4f7af1f" name="Changes" comment="TEMPLATE METHOD WITH BOXING GAME DONE">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Suunnittelumallit2024.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Suunnittelumallit2024.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,35 +35,43 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.AgrininPizzaMain.executor": "Run",
-    "Application.DigitalClockApp.executor": "Run",
-    "Application.ObserverMain.executor": "Run",
-    "Application.PokemonMain.executor": "Run",
-    "Application.SingletonMain.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "jdk.selected.JAVA_MODULE": "openjdk-21",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "/Users/agrin/Desktop/Suunnittelumallit2024/src/Main.java",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AgrininPizzaMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BoxingMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DigitalClockApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ObserverMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PokemonMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SingletonMain.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-21&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/agrin/Desktop/Suunnittelumallit2024/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="AgrininPizzaMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AgrininPizzaMain" />
+      <module name="Suunnittelumallit2024" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BoxingMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BoxingMain" />
       <module name="Suunnittelumallit2024" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -85,6 +86,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BoxingMain" />
         <item itemvalue="Application.PokemonMain" />
         <item itemvalue="Application.AgrininPizzaMain" />
       </list>
@@ -110,7 +112,11 @@
       <workItem from="1707242810558" duration="62000" />
       <workItem from="1707242881371" duration="3242000" />
       <workItem from="1707315092568" duration="1727000" />
-      <workItem from="1707898297502" duration="6787000" />
+      <workItem from="1707898297502" duration="7434000" />
+      <workItem from="1709119519416" duration="1640000" />
+      <workItem from="1709188834384" duration="367000" />
+      <workItem from="1709191106607" duration="15000" />
+      <workItem from="1709208681864" duration="2000" />
     </task>
     <task id="LOCAL−00001" summary="Done">
       <option name="closed" value="true" />
@@ -133,7 +139,21 @@
       <option name="presentableId" value="LOCAL−00003" />
       <updated>1707901198205</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL−00004" summary="STATE POKEMON DONE">
+      <option name="closed" value="true" />
+      <created>1707907099801</created>
+      <option name="number" value="LOCAL−00004" />
+      <option name="presentableId" value="LOCAL−00004" />
+      <updated>1707907099801</updated>
+    </task>
+    <task id="LOCAL−00005" summary="TEMPLATE METHOD WITH BOXING GAME DONE">
+      <option name="closed" value="true" />
+      <created>1709188864472</created>
+      <option name="number" value="LOCAL−00005" />
+      <option name="presentableId" value="LOCAL−00005" />
+      <updated>1709188864472</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,7 +162,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Done" />
     <MESSAGE value="DECORATE C DONE WITH AGRINPIZZA" />
-    <option name="LAST_COMMIT_MESSAGE" value="DECORATE C DONE WITH AGRINPIZZA" />
+    <MESSAGE value="STATE POKEMON DONE" />
+    <MESSAGE value="TEMPLATE METHOD WITH BOXING GAME DONE" />
+    <option name="LAST_COMMIT_MESSAGE" value="TEMPLATE METHOD WITH BOXING GAME DONE" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
