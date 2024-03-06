@@ -16,7 +16,7 @@ public class ListanMuuttajaMain {
     }
 
     public static void main(String[] args) {
-        List<String> syoteLista = List.of("A", "B", "C", "D", "E");
+        List<String> syoteLista = List.of("A", "B", "C", "D", "E", "F", "G", "H", "I", "J");
 
         ListanMuuttajaMain konteksti = new ListanMuuttajaMain(new Strategia1());
         System.out.println("Strategia 1:");
