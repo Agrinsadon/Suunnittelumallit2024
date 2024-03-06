@@ -1,8 +1,5 @@
-// ListanMuuttajaKonteksti.java
-
 import java.util.List;
 
-// Konteksti
 public class ListanMuuttajaMain {
     private ListanMuuttaja strategia;
 
