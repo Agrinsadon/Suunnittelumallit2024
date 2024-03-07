@@ -9,6 +9,8 @@
       <sourceFolder url="file://$MODULE_DIR$/DecoratorC" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/State" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/BoxingGame" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ChainOfResponsibility" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Strategy" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
