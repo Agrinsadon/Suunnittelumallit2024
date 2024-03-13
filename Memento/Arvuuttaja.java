@@ -1,20 +1,15 @@
 import java.util.Random;
+import java.util.Scanner;
 
 public class Arvuuttaja {
     private final Random random = new Random();
-    private ArvausMemento memento;
 
-    public Arvuuttaja() {
-        liityPeliin();
+    public ArvaajaMemento liityPeliin() {
+        int arvottuLuku = random.nextInt(100);
+        return new ArvaajaMemento(arvottuLuku);
     }
 
-    public void liityPeliin() {
-        int arvottuLuku = random.nextInt(20);
-        memento = new ArvausMemento(arvottuLuku);
-    }
-
-    public boolean arvaa(int arvaus) {
-        int arvottuLuku = memento.getArvottuLuku();
-        return arvaus == arvottuLuku;
+    public boolean arvaa(ArvaajaMemento memento, int arvaus) {
+        return memento.getArvottuLuku() == arvaus;
     }
 }

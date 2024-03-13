@@ -1,7 +1,7 @@
-public class ArvausMemento {
+public class ArvaajaMemento {
     private final int arvottuLuku;
 
-    public ArvausMemento(int arvottuLuku) {
+    public ArvaajaMemento(int arvottuLuku) {
         this.arvottuLuku = arvottuLuku;
     }
 
