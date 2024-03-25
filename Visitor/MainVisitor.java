@@ -1,4 +1,3 @@
-// Main.java
 public class MainVisitor {
     public static void main(String[] args) {
         Character character1 = new Character(new State1());

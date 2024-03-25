@@ -1,4 +1,3 @@
-// Character.java
 public class Character {
     private State state;
 
