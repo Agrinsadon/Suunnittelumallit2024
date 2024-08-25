@@ -17,3 +17,4 @@ CREATE TABLE Service (
     TransactionEndTime TIMESTAMP(6) GENERATED ALWAYS AS ROW END,
     PERIOD FOR SYSTEM_TIME (TransactionStartTime, TransactionEndTime)
 ) WITH SYSTEM VERSIONING;
+```
